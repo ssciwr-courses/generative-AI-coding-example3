@@ -1,4 +1,4 @@
 datasets
-transformers
-tensorflow
-tf-keras
+pandas
+pre-commit
+pytest
